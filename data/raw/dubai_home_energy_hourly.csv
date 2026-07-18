@@ -1,0 +1,33 @@
+timestamp,home_id,room,appliance,ac_usage_minutes,occupancy_count,temperature_band,hourly_consumption_kwh
+2026-06-15 00:00:00,H-001,Master Bedroom,Split AC,55,2,Hot (34-38C),2.84
+2026-06-15 00:00:00,H-001,Living Room,Television,42,1,Hot (34-38C),1.96
+2026-06-15 00:00:00,H-001,Kitchen,Refrigerator,18,0,Hot (34-38C),0.78
+2026-06-15 00:00:00,H-001,Study,Desktop Computer,0,0,Hot (34-38C),0.12
+2026-06-15 06:00:00,H-001,Master Bedroom,Split AC,58,2,Very Hot (39-43C),3.17
+2026-06-15 06:00:00,H-001,Kitchen,Electric Kettle,12,1,Very Hot (39-43C),1.05
+2026-06-15 06:00:00,H-001,Living Room,Lighting,25,1,Very Hot (39-43C),1.34
+2026-06-15 06:00:00,H-001,Study,Desktop Computer,0,0,Very Hot (39-43C),0.10
+2026-06-15 12:00:00,H-001,Living Room,Split AC,60,2,Extreme Heat (44C+),3.86
+2026-06-15 12:00:00,H-001,Kitchen,Electric Oven,45,1,Extreme Heat (44C+),2.71
+2026-06-15 12:00:00,H-001,Master Bedroom,Split AC,35,0,Extreme Heat (44C+),2.08
+2026-06-15 12:00:00,H-001,Study,Laptop,20,1,Extreme Heat (44C+),1.11
+2026-06-15 18:00:00,H-001,Living Room,Split AC,60,4,Extreme Heat (44C+),4.24
+2026-06-15 18:00:00,H-001,Kitchen,Dishwasher,35,1,Extreme Heat (44C+),2.18
+2026-06-15 18:00:00,H-001,Master Bedroom,Lighting,30,1,Extreme Heat (44C+),1.48
+2026-06-15 18:00:00,H-001,Study,Desktop Computer,18,1,Extreme Heat (44C+),1.07
+2026-06-16 00:00:00,H-002,Master Bedroom,Split AC,60,2,Very Hot (39-43C),3.46
+2026-06-16 00:00:00,H-002,Living Room,Television,38,1,Very Hot (39-43C),1.82
+2026-06-16 00:00:00,H-002,Kitchen,Refrigerator,20,0,Very Hot (39-43C),0.83
+2026-06-16 00:00:00,H-002,Guest Bedroom,Split AC,0,0,Very Hot (39-43C),0.17
+2026-06-16 06:00:00,H-002,Master Bedroom,Split AC,60,2,Extreme Heat (44C+),3.63
+2026-06-16 06:00:00,H-002,Kitchen,Coffee Machine,15,1,Extreme Heat (44C+),0.97
+2026-06-16 06:00:00,H-002,Living Room,Lighting,18,1,Extreme Heat (44C+),1.12
+2026-06-16 06:00:00,H-002,Guest Bedroom,Split AC,8,0,Extreme Heat (44C+),0.46
+2026-06-16 12:00:00,H-002,Living Room,Split AC,60,3,Extreme Heat (44C+),4.12
+2026-06-16 12:00:00,H-002,Kitchen,Microwave,30,1,Extreme Heat (44C+),1.63
+2026-06-16 12:00:00,H-002,Master Bedroom,Split AC,40,0,Extreme Heat (44C+),2.36
+2026-06-16 12:00:00,H-002,Guest Bedroom,Split AC,25,1,Extreme Heat (44C+),1.54
+2026-06-16 18:00:00,H-002,Living Room,Split AC,60,5,Extreme Heat (44C+),4.58
+2026-06-16 18:00:00,H-002,Kitchen,Induction Cooktop,40,2,Extreme Heat (44C+),2.49
+2026-06-16 18:00:00,H-002,Master Bedroom,Hair Dryer,15,1,Extreme Heat (44C+),1.21
+2026-06-16 18:00:00,H-002,Guest Bedroom,Lighting,20,1,Extreme Heat (44C+),1.09
